@@ -22,4 +22,14 @@ BERT relies on a Transformer (the attention mechanism that learns contextual rel
 - **Segment embeddings**: A marker indicating Sentence A or Sentence B is added to each token. This allows the encoder to distinguish between sentences.
 - **Positional embeddings**: A positional embedding is added to each token to indicate its position in the sentence.
 
+
 <img src="bert_sentence.png" width="2560" height="240">
+
+Essentially, the Transformer stacks a layer that maps sequences to sequences, so the output is also a sequence of vectors with a 1:1 correspondence between input and output tokens at the same index.
+
+## Large variety of models
+
+You can find implementations at the original [Google's repository](https://github.com/google-research/bert) and at the [Hugging Face web site](https://huggingface.co/transformers/index.html) with 8 architectures with over 30 pretrained models, some in more than 100 languages.
+
+## Acknowledgement
+The model that has been used inside these colab notebooks has been downloaded from [this](https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1) web link. You can also view more details about the generation of the model at the official github [repository](https://github.com/nlpaueb/greek-bert). 
