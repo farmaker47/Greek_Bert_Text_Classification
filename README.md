@@ -29,7 +29,10 @@ Essentially, the Transformer stacks a layer that maps sequences to sequences, so
 
 ## Large variety of models
 
-You can find implementations at the original [Google's repository](https://github.com/google-research/bert) and at the [Hugging Face web site](https://huggingface.co/transformers/index.html) with 8 architectures with over 30 pretrained models, some in more than 100 languages.
+You can find implementations at the original [Google's repository](https://github.com/google-research/bert) and at the [Hugging Face web site](https://huggingface.co/transformers/index.html) with 8 architectures with over 30 pretrained models, some in more than 100 languages. You can apply your own dataset inside the colab notebook.
 
 ## Acknowledgement
-The model that has been used inside these colab notebooks has been downloaded from [this](https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1) web link. You can also view more details about the generation of the model at the official github [repository](https://github.com/nlpaueb/greek-bert). 
+The model that has been used inside these colab notebooks has been downloaded from [this](https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1) web link. You can also view more details about the generation of the model at the official github [repository](https://github.com/nlpaueb/greek-bert) and the [web site](http://nlp.cs.aueb.gr/software.html).
+
+The dataset was kindly provided by [Dimosthenis Beleveslis](https://github.com/dimosbele) of the The Data Mining and Analytics Research Group School of Science & Technology, International Hellenic University Thessaloniki, Greece.
+
