@@ -34,5 +34,5 @@ You can find implementations at the original [Google's repository](https://githu
 ## Acknowledgement
 The model that has been used inside these colab notebooks has been downloaded from [this](https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1) web link. You can also view more details about the generation of the model at the official github [repository](https://github.com/nlpaueb/greek-bert) and the [web site](http://nlp.cs.aueb.gr/software.html).
 
-The dataset was kindly provided by [Dimosthenis Beleveslis](https://github.com/dimosbele) of the The Data Mining and Analytics Research Group School of Science & Technology, International Hellenic University Thessaloniki, Greece.
+The dataset was kindly provided by [Dimosthenis Beleveslis](https://github.com/dimosbele) of the The Data Mining and Analytics Research Group School of Science & Technology, International Hellenic University Thessaloniki, Greece and has also been used at [this](https://www.ihu.edu.gr/tjortjis/A%20Hybrid%20Method%20for%20Sentiment%20Analysis%20of%20Election%20Related%20Tweets.pdf) paper.
 
