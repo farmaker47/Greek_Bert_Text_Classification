@@ -22,4 +22,4 @@ BERT relies on a Transformer (the attention mechanism that learns contextual rel
 - **Segment embeddings**: A marker indicating Sentence A or Sentence B is added to each token. This allows the encoder to distinguish between sentences.
 - **Positional embeddings**: A positional embedding is added to each token to indicate its position in the sentence.
 
-
+<img src="bert_sentence.png" width="2560" height="240">
