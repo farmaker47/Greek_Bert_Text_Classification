@@ -31,10 +31,12 @@ Essentially, the Transformer stacks a layer that maps sequences to sequences, so
 
 You can find implementations at the original [Google's repository](https://github.com/google-research/bert) and at the [Hugging Face web site](https://huggingface.co/transformers/index.html) with 8 architectures with over 30 pretrained models, some in more than 100 languages. You can apply your own dataset inside the colab notebook.
 
+There is also a good step by step explanation on [this Medium blog post](https://farmaker47.medium.com/fine-tune-a-bert-model-with-the-use-of-colab-tpu-34cf29067357).
+
 ## Acknowledgement
 The model that has been used inside these colab notebooks has been downloaded from [this](https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1) web link. You can also view more details about the generation of the model at the official github [repository](https://github.com/nlpaueb/greek-bert) and the [web site](http://nlp.cs.aueb.gr/software.html).
 
 The dataset was kindly provided by [Dimosthenis Beleveslis](https://github.com/dimosbele) of the The Data Mining and Analytics Research Group School of Science & Technology, International Hellenic University Thessaloniki, Greece and has also been used at [this](https://www.ihu.edu.gr/tjortjis/A%20Hybrid%20Method%20for%20Sentiment%20Analysis%20of%20Election%20Related%20Tweets.pdf) paper.
 
-There is also a offensive/not offensive dataset on the dataset folder which was downloaded from [this site](https://zpitenis.com/resources/ogtd/)
+There is also a offensive/not offensive language dataset on the dataset folder which was downloaded from [this site](https://zpitenis.com/resources/ogtd/)
 
