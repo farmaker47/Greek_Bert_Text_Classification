@@ -36,3 +36,5 @@ The model that has been used inside these colab notebooks has been downloaded fr
 
 The dataset was kindly provided by [Dimosthenis Beleveslis](https://github.com/dimosbele) of the The Data Mining and Analytics Research Group School of Science & Technology, International Hellenic University Thessaloniki, Greece and has also been used at [this](https://www.ihu.edu.gr/tjortjis/A%20Hybrid%20Method%20for%20Sentiment%20Analysis%20of%20Election%20Related%20Tweets.pdf) paper.
 
+There is also a offensive/not offensive dataset on the dataset folder which was downloaded from [this site](https://zpitenis.com/resources/ogtd/)
+
